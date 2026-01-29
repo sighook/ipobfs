@@ -1,5 +1,9 @@
 # ipobfs
 
+**!!! OBSOLETED !!! See [ipcloak](https://github.com/sighook/ipcloak).**
+
+---
+
 A simple tool to convert the IP to different obfuscated forms.
 
 It's a remastered version of
